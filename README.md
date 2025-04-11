@@ -1,2 +1,3 @@
-# manow8
-manow8
+# Lemon8 Clone
+
+Project ready to deploy.
